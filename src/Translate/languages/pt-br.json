@@ -39,13 +39,19 @@
 	" files needs to be downloaded": " os arquivos precisam ser baixados",
 	" downloaded": " baixados",
 	" download failed": " falha no download",
-	"Peers found: ": "Pares encontrados: ",
-	"No peers found": "Nenhum par encontrado",
+	"Peers found: ": "Peers encontrados: ",
+	"No peers found": "Nenhum peer encontrado",
 	"Running out of size limit (": "Passando do tamanho limite (",
 	"Set limit to \" + site_info.next_size_limit + \"MB": "Definir limite para \" + site_info.next_size_limit + \"MB",
 	"Site size limit changed to {0}MB": "Limite de tamanho do site alterado para {0}MBs",
 	" New version of this page has just released.<br>Reload to see the modified content.": " Uma nova versão desse site acaba de ser publicada.<br>Atualize para ver o conteúdo modificado.",
 	"This site requests permission:": "Esse site solicita permissão:",
-	"_(Accept)": "Conceder"
+	"_(Accept)": "Conceder",
+	
+	"Save": "Salvar",
+	"Trackers announcing": "Trackers anunciando",
+	"Error": "Erro",
+	"Done": "Concluído",
+	"Tracker connection error detected.": "Erro de conexão com tracker foi detectado."
 
 }
